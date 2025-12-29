@@ -1,0 +1,5 @@
+{
+  "name": "NexusPay Gateway",
+  "description": "A high-performance payment orchestration platform supporting Orange Money, Afri Money, and multi-currency card payments with AI-powered fraud detection and business insights.",
+  "requestFramePermissions": []
+}
